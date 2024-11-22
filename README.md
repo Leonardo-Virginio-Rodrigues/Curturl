@@ -1,6 +1,6 @@
 # Encurtador de Links - Node.js e Express
 
-Este é um projeto de um **Encurtador de Links** desenvolvido com **Node.js** e **Express**. O projeto utiliza o **SQLite3** para armazenar as URLs e suas estatísticas, e o **Sequelize** para interagir com o banco de dados de forma fácil e eficiente.
+Este é um projeto de um **Encurtador de Links** desenvolvido atraves da aula no youtube do LuizTools com **Node.js** e **Express**. O projeto utiliza o **SQLite3** para armazenar as URLs e suas estatísticas, e o **Sequelize** para interagir com o banco de dados de forma fácil e eficiente.
 
 ### Funcionalidades:
 - **Gerar URLs Curtas**: Gera links curtos com 5 caracteres aleatórios (alfabeto + números).
